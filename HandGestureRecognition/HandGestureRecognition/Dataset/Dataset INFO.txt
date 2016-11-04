@@ -1,9 +1,0 @@
-This dataset is a modification of the vietnamese hand letter gestures provided in http://dut.udn.vn/pcvg/index.htm#theses. 
-All the images have been modified and resized to 150x150 pixel images because the raw data provided had different sizes. I 
-split the dataset in two directories: Training and Testing data. The training data is organized usign directories for each 
-letter of the alphabet in sign language:
-
-"A", "B", "C", "D", "E", "G", "H", "I", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "X", "Y"
-
-In each training letter directory there are 185 images of the corresponding hand letter gesture; and for the testing set
-there are 15 images for each letter, all in the same directory to use them as input data.
