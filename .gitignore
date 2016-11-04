@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+
+#Files ignored for the project
+HandGestureRecognition\HandGestureRecognition\Averages
+HandGestureRecognition\HandGestureRecognition\CroppedGestures
+HandGestureRecognition\HandGestureRecognition\Dataset
+HandGestureRecognition\HandGestureRecognition\GestureDatabase
